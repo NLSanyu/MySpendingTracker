@@ -1,0 +1,26 @@
+
+- Navigation Drawer
+    - Spending
+    - Income
+    - Investments
+    ------------------------------
+    - Financial stats, info, news
+    - Manage notifications (these are to remind the user to enter day's/week's data)
+    - Calculator
+    - Settings (Currency, app colour etc)
+
+
+- Today Fragment
+   Choice of items: - Enter day's income/spending
+                    - Make budget, shopping list, wish list, black list
+                    - Add notes
+
+- Week Fragment
+   RecyclerView of the days of the week
+
+- Month Fragment
+   Calendar
+
+
+
+
